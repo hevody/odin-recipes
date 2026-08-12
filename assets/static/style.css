@@ -1,4 +1,4 @@
-body {
+.recipes-body {
   background-image: url(../img/background-image-3.png);
   background-size: cover;
   background-position: center;
@@ -13,7 +13,7 @@ body {
 }
 
 .main-body {
-  background-image: url(/assets/img/background-image.jpg);
+  background-image: url(../img/background-image.jpg);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
