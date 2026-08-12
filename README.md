@@ -14,4 +14,11 @@ Here, you can observe the skills I have developed so far in my Web Development j
 
 Alongside some CSS, I had learned prior to taking the Odin Project
 <br><br>
-I realized that HTML is just like editing in Microsoft Word or Powerpoint and then making things beautiful
+
+# Realizations
+- I realized that HTML is just like editing in Microsoft Word or Powerpoint and then making things beautiful
+- Use .PNG always! No more debate. It's because weird things happened with .JPG
+- Filepath is super important when deploying a website, weird things can happen (Use relative path as much as possible if linking innate to the website)
+
+# Acknowledgements
+- Super thanks to Sir Vanjo Merano of [Panlasang Pinoy](https://panlasangpinoy.com/). This project would not exist without his recipes.
