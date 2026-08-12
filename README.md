@@ -13,3 +13,5 @@ Here, you can observe the skills I have developed so far in my Web Development j
 - use of git (evident here)
 
 Alongside some CSS, I had learned prior to taking the Odin Project
+<br><br>
+I realized that HTML is just like editing in Microsoft Word or Powerpoint and then making things beautiful
