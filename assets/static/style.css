@@ -12,7 +12,7 @@
   font-style: normal;
 }
 
-.main-body {
+body {
   background-image: url(../img/background-image.jpg);
   background-size: cover;
   background-position: center;
