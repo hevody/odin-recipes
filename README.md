@@ -1,7 +1,7 @@
 # Odin Recipes
 In this project, you will be able to see various **Filipino recipes** that the folks enjoyed
-<br>
-Here, you can observe the skills I have developed so far in my Web Development journey
+<br><br>
+Here, you can observe the skills I have developed so far in my Web Development journey:
 - elements and tags
 - html boilerplate
 - lists 
