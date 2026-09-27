@@ -201,3 +201,39 @@ body {
     display: none;
   }
 }
+
+.changa-one-regular.recipe-heading {
+  font-size: 70px;
+  margin: 30px auto 10px auto;
+}
+
+.star-rating-container {
+  display: flex;
+  margin-bottom: 10px;
+  align-items: center;
+}
+
+.star-rating-color {
+  color: #FCAD38;
+  height: 30px;
+  width: auto;
+}
+
+.rating-points {
+  margin-left: 15px;
+  text-decoration: underline;
+}
+
+.rate-count {
+ margin-left: 15px; 
+ opacity: 70%;
+}
+
+.submission-container {
+  display: block;
+  margin-bottom: 10px;
+}
+
+.submission-container .update {
+  opacity: 80%;
+}
