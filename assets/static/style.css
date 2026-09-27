@@ -100,8 +100,17 @@ body {
   margin-left: 35px;
 }
 
+.heart-count.pork-margin {
+  margin-left: 50px;
+}
+
+.heart-count.pancit-malabon-margin {
+  margin-left: 25px;
+}
+
 .recipe-short-description {
-  
+  font-size: 15px;
+  margin: 20px 10px;
 }
 
 
