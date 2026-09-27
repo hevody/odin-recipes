@@ -33,7 +33,7 @@ At first, I struggled as to how to make that Pokemon type of card in the main la
 
 CSS made me turn what is in my imagination into reality. 
 
-At the recipe's individual page, you can see me deviate a little from my imagined layout. It is because I think that the rightmost part filled the whitespace already. Gosh, thanks to my teacher and the Empowerment Technologies subject the UI looks somehow decent (at least in my point of view).
+At the recipe's individual page, you can see me deviate a little from my imagined layout. It is because I think that the rightmost part filled the whitespace already. Gosh, thanks to my teacher and the Empowerment Technology subject the UI looks somehow decent (at least in my point of view).
 
 # Realizations 💡
 - I realized that HTML is just like editing in Microsoft Word or Powerpoint and then making things beautiful
