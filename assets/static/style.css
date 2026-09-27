@@ -222,6 +222,7 @@ body {
 .rating-points {
   margin-left: 15px;
   text-decoration: underline;
+  text-decoration-color: #FFB900;
 }
 
 .rate-count {
