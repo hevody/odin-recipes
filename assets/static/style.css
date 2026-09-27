@@ -237,3 +237,41 @@ body {
 .submission-container .update {
   opacity: 80%;
 }
+
+.recipe-description-container {
+  width: 50%;
+}
+
+.heading-recipes-content {
+  background-color: #D45060;
+  width: 50%;
+  padding: 10px;
+  /* border: 2px solid black; */
+  color: #FFF9F2;
+}
+
+h2 {
+  margin: 0px;
+  font-weight: 100;
+}
+
+.changa-one-regular-unbold {
+  font-family: "Changa One", sans-serif;
+  /* font-weight: 100; */
+  font-style: normal;
+}
+
+.heading-recipes-content.procedure {
+  background-color: #EB7F31;
+}
+
+.ingproc-container {
+  background-color: #FFF9F2;
+  width: 50%;
+  padding: 10px;
+  margin-bottom: 20px;
+}
+
+a {
+  color: #457B9D;
+}
